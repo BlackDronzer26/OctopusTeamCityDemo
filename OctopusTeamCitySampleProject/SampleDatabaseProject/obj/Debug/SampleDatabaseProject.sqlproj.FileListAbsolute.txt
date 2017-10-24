@@ -7,3 +7,12 @@ E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\Model.xml
 E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\refactor.xml
 E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\postdeploy.sql
 E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\predeploy.sql
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.dacpac
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.dll
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.pdb
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\Model.xml
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\refactor.xml
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\postdeploy.sql
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\predeploy.sql
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\SampleDatabaseProject.dll
+D:\TrainingProject\OctopusTeamCityDemo\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\SampleDatabaseProject.pdb
